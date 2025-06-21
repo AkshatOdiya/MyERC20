@@ -1,7 +1,3 @@
-Of course! Here’s a **clean, beginner-friendly README.md** you can use for this ERC20 token contract project:
-
----
-
 # MyERC20 Token
 
 A simple **ERC20 token** contract built with **OpenZeppelin** that includes **role-based minting access control**.
