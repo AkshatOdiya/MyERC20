@@ -84,3 +84,4 @@ hasRole(MINTER_ROLE, 0xFriendAddress);
 ## 📝 License
 
 **MIT License**
+
