@@ -72,7 +72,11 @@ hasRole(MINTER_ROLE, 0xFriendAddress);
 * [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/5.x/)
 * [OpenZeppelin AccessControl](https://docs.openzeppelin.com/contracts/5.x/access-control)
 * [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/)
-
+  
+### How to Use
+Credit: Cyfrin Updraft
+1. [How_to_deploy](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/deploying-an-erc20-contract)
+2. [Interacting_And_Minting](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/minting-tokens)
 ---
 
 ## Security Notes
